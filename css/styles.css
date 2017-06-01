@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+}
+ .puppy {
+   display: none;
+ }
+
+ .kitten {
+   display: none;
+ }
